@@ -7,4 +7,4 @@ Currently, I'm immersed in the exciting realms of two innovative startups, Gradi
 
 [![Bilguun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilguun1324&hide=contribs,stars&theme=transparent&show_icons=true&show=prs_merged_percentage&rank_icon=github)](https://github.com/Bilguun1324/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilguun1324)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilguun1324&theme=transparent)
