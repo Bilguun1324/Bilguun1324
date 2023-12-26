@@ -9,6 +9,8 @@ I'm Bilguun—a passionate full-stack developer and a computer science student a
 *   🌍  I'm based in Sydney, Australia
 *   🖥️  See my portfolio at [https://personal-portfolio-1o33.vercel.app/](http://personal-portfolio-1o33.vercel.app/)
 *   ✉️  You can contact me at [bilguun1324@gmail.com](mailto:bilguun1324@gmail.com)
+
+
 [![Bilguun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilguun1324&hide=contribs,stars&theme=transparent&show_icons=true&show=prs_merged_percentage&rank_icon=github)](https://github.com/Bilguun1324/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilguun1324&theme=transparent)
