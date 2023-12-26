@@ -6,3 +6,5 @@ As for back-end development I'd like to use GraphQL, MongoDB and Firebase.
 Currently, I'm immersed in the exciting realms of two innovative startups, Gradify and OnCourse. 
 
 [![Bilguun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilguun1324&hide=contribs,stars)](https://github.com/Bilguun1324/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilguun1324)](https://github.com/Bilguun1324/github-readme-stats)
