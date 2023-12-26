@@ -15,4 +15,4 @@ I'm Bilguun—a passionate full-stack developer and a computer science student a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilguun1324&theme=transparent)
 
-* I am currently working on Gradify and OnCourse as a Full Stack Developer
+* 🚀 I am currently working on Gradify and OnCourse as a Full Stack Developer
